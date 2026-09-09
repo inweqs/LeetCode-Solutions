@@ -1,0 +1,11 @@
+# Ignore files in root folder
+/*
+
+# Follow gitignore and README files
+!/.gitignore
+!/README.md
+
+# Follow Easy, Medium and Hard folders
+!/Easy/
+!/Medium/
+!/Hard/
